@@ -1,4 +1,4 @@
-# food demand forecasting
+# Food Demand Forecasting
 
 Demand forecasting has taken a crucial role in modern businesses. Especially 
 a food delivery service has to deal with perishable raw material and to 
