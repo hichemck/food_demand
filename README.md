@@ -4,8 +4,7 @@ Demand forecasting has taken a crucial role in modern businesses. Especially
 a food delivery service has to deal with perishable raw material and to 
 ensure having the right stock quantity at any time. 
 
-Let's see how to tackle these challenges with different methods and which 
-method is the best.
+For my final project in the Spiced Bootcamp I chose to tackle these challenges with different methods.
 
 The challenge has been proposed by Analytics Vidhya which is a plattform for 
 data science challenges.
@@ -29,5 +28,9 @@ are combinations in the test set that are not available in the train set.
 - Data exploration
 - Data wrangling 
 - Prediction benchmark
-- Run different regression models: Linear - Poisson - XGboost
-- Add lagged values and perform recursive forecasting 
+- Run different regression models: Linear - Poisson 
+- Add lagged values as new feature and perform recursive forecasting with XGboost
+
+# Evaluation
+
+Submitted predictions are evaluated using mean squared logarithmic error multiplied by 100.
